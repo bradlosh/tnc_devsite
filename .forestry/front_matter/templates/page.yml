@@ -8,4 +8,4 @@ fields:
     required: false
   label: Title
 pages:
-- src/pages/*.md/attend.md
+- src/pages/attend.md
