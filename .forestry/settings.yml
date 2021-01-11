@@ -17,10 +17,11 @@ sections:
 - type: heading
   label: Pages
 - type: directory
-  path: src/pages/*.md
+  path: src/pages
   label: Pages
   create: all
-  match: "**/*"
+  match: "*.md"
+  new_doc_ext: ".md"
   templates:
   - page
 - type: document
