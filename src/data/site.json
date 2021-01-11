@@ -1,5 +1,5 @@
 {
-  "name": "Eleventy Duo",
+  "name": "True North Church",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
@@ -9,6 +9,11 @@
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
+      {
+        "text": "Attend",
+        "url": "/pages/attend",
+        "external": false
+      },
     {
       "text": "Blog",
       "url": "/blog",
