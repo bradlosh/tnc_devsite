@@ -1,11 +1,10 @@
 ---
 title: Attend a Service
 layout: page.njk
-
+image: https://tnc.sc/content/images/size/w2000/2019/09/nicole-honeywill-dGxOgeXAXm8-unsplash.jpg
 ---
-![](https://tnc.sc/content/images/size/w2000/2019/09/nicole-honeywill-dGxOgeXAXm8-unsplash.jpg)
 
-**Sunday 10:25am | Wednesday 7pm**
+## Sunday 10:25am | Wednesday 7pm
 
 _Find your best life._
 
