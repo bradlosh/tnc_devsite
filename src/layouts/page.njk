@@ -4,15 +4,8 @@ layout: base.njk
 
 <article class="page">
   <header class="page__header">  
-    <img src="{{ image | url }}" alt="" class="page__image">
 	<h1>{{ title }}</h1>
-    <div class="post__details">
-      <time datetime="{{ page.date | htmlDateString }}">
-        {{ page.date | readableDate }}
-      </time>
-      <span> | </span>
-      <span>{{ content | readingTime }} read</span>
-    </div>
+    <img src="{{ image | url }}" alt="" class="page__image">
   </header>
 
   <main class="page__content">
