@@ -1,11 +1,11 @@
 {
   "name": "True North Church",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "description": "You can get there from here!",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "True North Church",
+    "email": "info@truenorth.sc",
+    "twitterHandle": "truenorthsc"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -28,17 +28,12 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://instagram.com/truenorthsc",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/truenorthsc",
       "external": true
     }
   ],
