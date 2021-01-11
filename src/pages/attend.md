@@ -5,11 +5,13 @@ layout: page.njk
 ---
 ![](https://tnc.sc/content/images/size/w2000/2019/09/nicole-honeywill-dGxOgeXAXm8-unsplash.jpg)
 
+**Sunday 10:25am | Wednesday 7pm**
+
 _Find your best life._
 
 At True North Church, you will find powerful worship, empowering Biblical teaching and a community dedicated to pursuing the presence of God. Our aim is to meet you where you are and to help you find your best life. You can get there from here.
 
----
+***
 
 ### Nursery
 
