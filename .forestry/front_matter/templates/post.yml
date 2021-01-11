@@ -14,3 +14,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- src/posts/freedom-adventure.md
