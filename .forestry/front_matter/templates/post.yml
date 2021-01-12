@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: speaker
+  type: text
+  config:
+    required: false
+  label: speaker
 - type: list
   name: tags
   label: tags
